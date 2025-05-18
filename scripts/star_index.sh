@@ -23,4 +23,5 @@ cd /gxfs_work/geomar/smomw504/val_rnaseq/analysis/
      --genomeDir star_index \
      --genomeFastaFiles /gxfs_work/geomar/smomw504/val_rnaseq/genome/zmarina/Zmarina_668_v2.0.fa \
      --sjdbGTFfile /gxfs_work/geomar/smomw504/val_rnaseq/genome/zmarina/ZosmaV2_all.gtf \
+	 --genomeSAindexNbases 12 \
      --runThreadN 8
